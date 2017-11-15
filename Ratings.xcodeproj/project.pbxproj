@@ -15,6 +15,7 @@
 		977153961FBCC7C700911A4C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 977153941FBCC7C700911A4C /* LaunchScreen.storyboard */; };
 		9771539E1FBCF55500911A4C /* PlayersTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9771539D1FBCF55500911A4C /* PlayersTableViewController.swift */; };
 		977153A21FBCF69900911A4C /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 977153A11FBCF69900911A4C /* Player.swift */; };
+		97DF49B21FBCFAE000E8D6A8 /* SampleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97DF49B11FBCFAE000E8D6A8 /* SampleData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		977153971FBCC7C700911A4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9771539D1FBCF55500911A4C /* PlayersTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayersTableViewController.swift; sourceTree = "<group>"; };
 		977153A11FBCF69900911A4C /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
+		97DF49B11FBCFAE000E8D6A8 /* SampleData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 		9771537C1FBCC7C700911A4C = {
 			isa = PBXGroup;
 			children = (
+				97DF49B11FBCFAE000E8D6A8 /* SampleData.swift */,
 				977153A11FBCF69900911A4C /* Player.swift */,
 				977153871FBCC7C700911A4C /* Ratings */,
 				977153861FBCC7C700911A4C /* Products */,
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9771539E1FBCF55500911A4C /* PlayersTableViewController.swift in Sources */,
+				97DF49B21FBCFAE000E8D6A8 /* SampleData.swift in Sources */,
 				9771538B1FBCC7C700911A4C /* ViewController.swift in Sources */,
 				977153891FBCC7C700911A4C /* AppDelegate.swift in Sources */,
 				977153A21FBCF69900911A4C /* Player.swift in Sources */,
