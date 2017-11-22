@@ -16,6 +16,7 @@
 		977B92241FC3A2F7008A1204 /* PlayersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 977B92231FC3A2F7008A1204 /* PlayersViewController.swift */; };
 		977B92261FC3A44D008A1204 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 977B92251FC3A44D008A1204 /* Player.swift */; };
 		977B92281FC3A531008A1204 /* SampleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 977B92271FC3A530008A1204 /* SampleData.swift */; };
+		979C0D281FC609270060F90D /* PlayerCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 979C0D271FC609270060F90D /* PlayerCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		977B92231FC3A2F7008A1204 /* PlayersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayersViewController.swift; sourceTree = "<group>"; };
 		977B92251FC3A44D008A1204 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		977B92271FC3A530008A1204 /* SampleData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleData.swift; sourceTree = "<group>"; };
+		979C0D271FC609270060F90D /* PlayerCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				977153881FBCC7C700911A4C /* AppDelegate.swift */,
 				9771538A1FBCC7C700911A4C /* ViewController.swift */,
 				9771538C1FBCC7C700911A4C /* Main.storyboard */,
+				979C0D271FC609270060F90D /* PlayerCell.swift */,
 				977B92251FC3A44D008A1204 /* Player.swift */,
 				977B92271FC3A530008A1204 /* SampleData.swift */,
 				977B92231FC3A2F7008A1204 /* PlayersViewController.swift */,
@@ -150,6 +153,7 @@
 			files = (
 				977B92241FC3A2F7008A1204 /* PlayersViewController.swift in Sources */,
 				9771538B1FBCC7C700911A4C /* ViewController.swift in Sources */,
+				979C0D281FC609270060F90D /* PlayerCell.swift in Sources */,
 				977B92261FC3A44D008A1204 /* Player.swift in Sources */,
 				977153891FBCC7C700911A4C /* AppDelegate.swift in Sources */,
 				977B92281FC3A531008A1204 /* SampleData.swift in Sources */,
