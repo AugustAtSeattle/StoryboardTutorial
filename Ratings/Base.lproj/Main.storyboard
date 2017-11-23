@@ -201,7 +201,7 @@
                         </barButtonItem>
                         <barButtonItem key="rightBarButtonItem" systemItem="done" id="c1t-0i-xBY">
                             <connections>
-                                <segue destination="ivu-Ct-Ks6" kind="unwind" unwindAction="savePlayerDetail:" id="fv8-GD-Tgh"/>
+                                <segue destination="ivu-Ct-Ks6" kind="unwind" identifier="SavePlayerDetail" unwindAction="savePlayerDetail:" id="fv8-GD-Tgh"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
