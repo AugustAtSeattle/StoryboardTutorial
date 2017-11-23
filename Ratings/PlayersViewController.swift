@@ -6,6 +6,16 @@ class PlayersViewController: UITableViewController {
     var players = SampleData.generatePlayersData()
 }
 
+// MARK: - IBActions
+extension PlayersViewController {
+    
+    @IBAction func cancelToPlayersViewController(_ segue: UIStoryboardSegue) {
+    }
+    
+    @IBAction func savePlayerDetail(_ segue: UIStoryboardSegue) {
+    }
+}
+
 // MARK: - UITableViewDataSource
 extension PlayersViewController {
     
